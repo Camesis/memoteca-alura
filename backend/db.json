@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio até este pensamento.",
+      "autoria": "Eu mesma, Silva",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 2,
+      "conteudo": "Sabe eu tava aqui pensando, meio tenso né...",
+      "autoria": "Eu",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "React me dá dor de cabeça só de pensar",
+      "autoria": "Eu",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Estamos vivendo ou apenas existindo?",
+      "autoria": "Dev",
+      "modelo": "modelo1",
+      "id": 4
+    }
+  ]
+}
