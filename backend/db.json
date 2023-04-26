@@ -4,25 +4,50 @@
       "id": 1,
       "conteudo": "Que bom que você veio até este pensamento.",
       "autoria": "Eu mesma, Silva",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Sabe eu tava aqui pensando, meio tenso né...",
       "autoria": "Eu",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "React me dá dor de cabeça só de pensar",
       "autoria": "Eu",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "Estamos vivendo ou apenas existindo?",
       "autoria": "Dev",
       "modelo": "modelo1",
-      "id": 4
+      "id": 4,
+      "favorito": false
+    },
+    {
+      "conteudo": "Dinherio é algo inventado pelo ser humano. Assim como seu real valor.",
+      "autoria": "Eu mesma, Santos",
+      "modelo": "modelo3",
+      "id": 5,
+      "favorito": false
+    },
+    {
+      "conteudo": "Toda democracia é cíclica, logo precisa de um tirano em um determinado momento",
+      "autoria": "Mark Manson",
+      "modelo": "modelo1",
+      "id": 6,
+      "favorito": true
+    },
+    {
+      "conteudo": "Ela era como uma tempestade, e eu? Bom, eu era só um pingo de chuva.",
+      "autoria": "Miles",
+      "modelo": "modelo1",
+      "id": 7,
+      "favorito": false
     }
   ]
 }
